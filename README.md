@@ -1,2 +1,2 @@
 # hello-world
-first git tutorial
+just making sure i understand the git UI! 
